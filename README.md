@@ -1,5 +1,5 @@
 # WeatherApp using OpenWeatherAPI
-**Owner:** Lim Excelyynx
+Owner: Lim Excelyynx
 ---
 
 ## 📄 Youtube Video Source
@@ -13,9 +13,9 @@ The **WeatherApp** is a simple project that uses JS HTML CSS and the free OpenWe
 
 ## 💾 Source code includes 
 
-- 🐍 **JS** 
-- 💻 **HTML**
-- 🌐 **CSS** 
+- 🐍 JS
+- 💻 HTML
+- 🌐 CSS 
 
 --- 
 
